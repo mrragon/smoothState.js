@@ -1,4 +1,4 @@
-smoothState.js
+smoothState.js（无刷新跳转页面）
 ===============
 smoothState.js is a jQuery plugin that [progressively enhances](http://www.smashingmagazine.com/2009/04/22/progressive-enhancement-what-it-is-and-how-to-use-it/) page loads to give us control over page transitions. If the user's browser doesn't have the [required features](http://caniuse.com/#search=pushstate), smoothState.js fades into the background and never runs.
 
